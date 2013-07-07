@@ -13,5 +13,6 @@ namespace BinaryBeast.Service.Entities
         [JsonProperty("Brackets")]
         [JsonConverter(typeof(BracketsJsonConverter))]
         public TResult Result { get; set; }
+
     }
 }

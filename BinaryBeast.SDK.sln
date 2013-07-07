@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryBeast.Service", "BinaryBeast.Service\BinaryBeast.Service.csproj", "{E141FD54-48FA-4784-936B-2BCA5C60BE68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryBeast.Service.UnitTest", "BinaryBeast.Service.UnitTest\BinaryBeast.Service.UnitTest.csproj", "{3D8699CD-C912-4BF7-8797-AB6E09FA795F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{E141FD54-48FA-4784-936B-2BCA5C60BE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E141FD54-48FA-4784-936B-2BCA5C60BE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E141FD54-48FA-4784-936B-2BCA5C60BE68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D8699CD-C912-4BF7-8797-AB6E09FA795F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D8699CD-C912-4BF7-8797-AB6E09FA795F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D8699CD-C912-4BF7-8797-AB6E09FA795F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D8699CD-C912-4BF7-8797-AB6E09FA795F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
